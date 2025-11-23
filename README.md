@@ -1,6 +1,6 @@
 # 📈 Cyclistic Bike-Share: Análise Preditiva de Conversão de Clientes
 
-## 🚀 Visão Geral do Projeto (Destaque para Recrutadores)
+## 🚀 Visão Geral do Projeto
 
 Este projeto demonstra a aplicação completa da metodologia de análise de dados (Ask, Prepare, Process, Analyze, Share, Act) para resolver um desafio de negócio com foco em **crescimento de receita** e **segmentação de clientes**.
 

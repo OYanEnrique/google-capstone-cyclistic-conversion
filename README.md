@@ -27,6 +27,10 @@ Analisar os dados históricos de viagens de bicicleta da Cyclistic para entender
 
 Os dados utilizados são os **dados históricos de viagens de bicicleta** da Cyclistic (nome fictício para dados Divvy), abrangendo o **Primeiro Trimestre de 2019 e 2020 (Q1)**, conforme a recomendação para análise em R.
 
+* **Datasets utilizados:**
+  * [Divvy Trips 2019 Q1](https://docs.google.com/spreadsheets/d/1i8hWVmWicD5IqPVAlNnZ4CJ_Ydb8Dg-GqgkYPrkZu_U/edit?usp=sharing)
+  * [Divvy Trips 2020 Q1](https://docs.google.com/spreadsheets/d/1jwyMw7gcJqvg0U_q3neDPHC_RJLv30ihjdlr3Y_nRhU/edit?usp=sharing)
+
 * **Restrições:** A análise é restrita pela **privacidade de dados**, o que proíbe o uso de informações de identificação pessoal (PII) e impede a ligação de compras de passes a cartões de crédito.
 
 ---
